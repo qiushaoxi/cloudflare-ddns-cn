@@ -1,0 +1,15 @@
+{
+  "hostnames": [
+    {
+      "hostname": "baidu.com",
+      "proxied": true
+    },
+    {
+      "hostname": "google.com",
+      "proxied": true
+    }
+  ],
+  "email": "",
+  "token": "",
+  "queryUrl": "http://members.3322.org/dyndns/getip"
+}

@@ -1,23 +1,18 @@
 {
-  "name": "cloudflare-dns-updater",
+  "name": "cloudflare-ddns-cn",
   "version": "1.0.0",
   "description": "NodeJS script for updating cloudflare dns record",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chihim Ng",
+  "author": "Tiny Hill",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
-    "public-ip": "^2.5.0"
+    "axios": "^0.18.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chihimng@github.com/chihimng/cloudflare-dns-updater.git"
-  },
-  "bugs": {
-    "url": "https://github.com/chihimng/cloudflare-dns-updater/issues"
-  },
-  "homepage": "https://github.com/chihimng/cloudflare-dns-updater#readme"
+    "url": "git+https://github.com/qiushaoxi/cloudflare-ddns-cn.git"
+  }
 }

@@ -1,0 +1,5 @@
+{
+    "name": "cloudflare_ddns",
+    "script": "index.js",
+    "restart_delay": 10000
+}
